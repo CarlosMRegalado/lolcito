@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from 'react';\nimport MainScreen from '../fronted/mainscreen/components';\n\nconst main = () => {\n  return /*#__PURE__*/_jsx(MainScreen, {});\n};\n\nexport default main;","map":null,"metadata":{},"sourceType":"module"}

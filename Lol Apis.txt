@@ -1,0 +1,16 @@
+apis lol 
+
+
+lista de campeones
+
+http://ddragon.leagueoflegends.com/cdn/10.21.1/data/es_MX/champion.json
+
+seleccionar un campeon
+
+http://ddragon.leagueoflegends.com/cdn/10.21.1/data/es_MX/champion/Aatrox.json
+
+selecionar splashart
+http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg
+
+seleccionar  splash mini
+http://ddragon.leagueoflegends.com/cdn/10.21.1/img/champion/Aatrox.png
